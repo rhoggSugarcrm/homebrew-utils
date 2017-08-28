@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+
+brew cat $1 | less
+
